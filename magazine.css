@@ -1,0 +1,80 @@
+#magazine-carousel {
+    background:transparent;
+}
+
+#magazine1-container {
+    width: 100%;
+    max-width: 800px;
+    height: 550px;
+    background: transparent;
+    border: none;
+    outline: none;
+    box-shadow: auto;
+}
+
+.Cover {
+    background: blue;
+    color:aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+}
+
+.Cover h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    letter-spacing: 3px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:azure;
+}
+
+.Page {
+    background-color:aliceblue;
+    border: 1px solid aliceblue;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+    box-shadow: none;
+}
+
+.Page h1 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color:black;
+    border-bottom: 2px solid rgb(74, 73, 73);
+    padding-bottom: 5px;
+}
+
+.Page h2 {
+    font-size: 1.1rem;
+    margin: 8px 0;
+    color: rgb(74, 73, 73);
+    font-weight: normal;
+}
+
+
+button {
+    background: darkgray;
+    border: none;
+    color: aliceblue;
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: rgb(112, 73, 73);
+}
+
+span#page-info {
+    font-size: 0.9rem;
+    color: aliceblue;
+    
+}

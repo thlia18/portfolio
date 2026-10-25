@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: black;
+}
+
+#navbar {
+    background-color: black;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#container1 {
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container2 {
+    background-color: brown;
+    font-family:'Courier New', Courier, monospace;
+}

@@ -1,0 +1,87 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: black;
+}
+
+#navigatorbar {
+
+    background-color: black;
+}
+
+a {
+
+    color:whitesmoke;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+.navigatortext {
+    padding-left: 100px;
+    
+}
+
+h1 {
+    font-family:'Nabla';
+    font-size: 14rem;
+    margin: 20px;
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+    margin: 100px;
+    font-size: 30px;
+}
+
+h2 {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.container1 {
+
+    background-color: rgb(166, 47, 47);
+    min-height: 800px;
+    height: 100%;
+    bottom: 0;
+
+}
+
+
+
+.container2 {
+    
+    background-color:rgb(34, 111, 56);
+    min-height: 800px;
+}
+
+
+.works {
+    align-items: center;
+}
+
+#music_close {
+    height: 100%;
+}
+
+#music_close:hover {
+    content: url("music\ open.png");
+    
+}
+
+
+#magazine_close {
+    height: 300px;
+}
+
+#magazine_close:hover {
+    content: url("magazine_open.png");
+}
