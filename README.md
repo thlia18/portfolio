@@ -1,6 +1,6 @@
 # portfolio
 
-A website I created, where i try to combine elements I have learned from previous websites I made. You can try it with this link:
+The third website I created, where i try to combine elements I have learned from previous websites I made. These elements obviously include the basics of coding a website aswell as linking pages and images to each other and personally the most difficult, creating flipable pages and animations on the website (here unsuccessful). You can try it with this link:
 https://gladlianerd.neocities.org/
 
 made for Hack Clubs program "Terra"
